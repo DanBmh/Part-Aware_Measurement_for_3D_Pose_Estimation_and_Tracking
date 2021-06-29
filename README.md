@@ -4,6 +4,9 @@
 > Hau Chu, Jia-Hong Lee, Yao-Chih Lee, Ching-Hsien Hsu, Jia-Da Li, Chu-Song Chen  
 > 2021 CVPR B-AMFG Workshop
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/part-aware-measurement-for-robust-multi-view-1/3d-multi-person-pose-estimation-on-campus)](https://paperswithcode.com/sota/3d-multi-person-pose-estimation-on-campus?p=part-aware-measurement-for-robust-multi-view-1)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/part-aware-measurement-for-robust-multi-view-1/3d-multi-person-pose-estimation-on-shelf)](https://paperswithcode.com/sota/3d-multi-person-pose-estimation-on-shelf?p=part-aware-measurement-for-robust-multi-view-1)
+
 ## Installation
 
  - Python 3.6+
