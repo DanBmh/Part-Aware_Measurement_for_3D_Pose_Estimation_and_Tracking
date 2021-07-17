@@ -42,6 +42,8 @@ Download datasets:
 2. Shelf (http://campar.in.tum.de/Chair/MultiHumanPose)
 3. CMU Panoptic (https://github.com/CMU-Perceptual-Computing-Lab/panoptic-toolbox)
 
+Datasets' camera_parameter.pickle [(download)](https://drive.google.com/drive/folders/1JUB4zmOJBZ78aTFCCeK2dn-HWR7dTFvB?usp=sharing)
+
 The directory tree should look like below:
 ```
 ${ROOT}
