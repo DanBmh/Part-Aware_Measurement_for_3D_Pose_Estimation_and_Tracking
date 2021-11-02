@@ -7,6 +7,8 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/part-aware-measurement-for-robust-multi-view-1/3d-multi-person-pose-estimation-on-campus)](https://paperswithcode.com/sota/3d-multi-person-pose-estimation-on-campus?p=part-aware-measurement-for-robust-multi-view-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/part-aware-measurement-for-robust-multi-view-1/3d-multi-person-pose-estimation-on-shelf)](https://paperswithcode.com/sota/3d-multi-person-pose-estimation-on-shelf?p=part-aware-measurement-for-robust-multi-view-1)
 
+The code is released for academic research use only. For commercial use, please contact Prof. Chu-Song Chen(chusong@csie.ntu.edu.tw).
+
 ## Installation
 
  - Python 3.6+
