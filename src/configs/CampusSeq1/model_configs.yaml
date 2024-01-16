@@ -17,7 +17,7 @@ DATASET:
         # ROOT: '/mnt/nvme0n1p1/CampusSeq1'
         CALIBRATION_FILE: 'camera_parameter.pickle'
         GT_FILE: 'annotation_2d.json'
-        DATA_FORMAT: '*.jpg'
+        DATA_FORMAT: '*.png'
         TEST_RANGE:
                 - 347
                 - 751

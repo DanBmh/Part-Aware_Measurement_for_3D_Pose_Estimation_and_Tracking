@@ -2,7 +2,7 @@ import itertools
 from collections import defaultdict
 import time
 import numpy as np
-from cvxopt import glpk, matrix, spmatrix
+from cvxopt import matrix, spmatrix
 from scipy.optimize import linprog
 
 FROZEN_POS_EDGE = -1
